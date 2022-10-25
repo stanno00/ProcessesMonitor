@@ -29,6 +29,7 @@ namespace ProcessesMonitor
                 {
                     maxLifeTime = Int32.Parse(s[1]);
                     monitorFrequency = Int32.Parse(s[2]);
+                    correctTypeInput = true;
                 }
                 if (correctTypeInput == false)
                 {
