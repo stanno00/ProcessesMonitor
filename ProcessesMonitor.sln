@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessesMonitor", "ProcessesMonitor\ProcessesMonitor.csproj", "{205AEA29-AE76-481A-88C3-92FE51BA9A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessesMonitorTest", "ProcessesMonitorTest\ProcessesMonitorTest.csproj", "{94433338-76CF-4DE4-A811-B983A871DE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{205AEA29-AE76-481A-88C3-92FE51BA9A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205AEA29-AE76-481A-88C3-92FE51BA9A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205AEA29-AE76-481A-88C3-92FE51BA9A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205AEA29-AE76-481A-88C3-92FE51BA9A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94433338-76CF-4DE4-A811-B983A871DE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94433338-76CF-4DE4-A811-B983A871DE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94433338-76CF-4DE4-A811-B983A871DE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94433338-76CF-4DE4-A811-B983A871DE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
